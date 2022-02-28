@@ -1,4 +1,4 @@
 ---
 title: "State of the Union Addresses, 1900-1945"
----World War 1 
-The Great Depression 
+---war, alliances, europe, germany, serbia, russia, nationaism 
+recession, crash, new york, stock exchange, overproduction 
