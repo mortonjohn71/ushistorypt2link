@@ -7,6 +7,7 @@ permalink: /essay-01.html
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
 # 20th Century US Conflicts 
+The United States was involved in numerous conflicts in the 20th century that shaped the political, social, and economic aspects of our society today. The legacy of these conflicts have had signigicant political ramifacations in our current society. 
 
 ## Introduction
 
