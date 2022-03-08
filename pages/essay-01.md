@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
 
 # 20th Century US Conflicts 
 
@@ -29,7 +29,7 @@ In Markdown, any text with no empty lines between will become a paragraph.
 Leave an empty line between headings and paragraphs.
 
 Font can be *Italic* or **Bold**.
-
+ ### My First Subheading
 Citing your work is important! [^1]
 
 Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
