@@ -10,7 +10,7 @@ permalink: /essay-01.html
 
 [History](% include feature/line-chart.html data="sotu-20th-century" topic="America at war" %)
 I included this graph becauase it contains the data for how many times the topic America at War was mentioned in 20th century SOTU addresses. This will be vital for my project, for it will help me get a deeper look into which Presidents mentioned war and their justification for it. This will help me get a closer look into the ideilogies that governmed the United States during the 20th century and how they led to conflict overseas. 
-The United States was involved in numerous conflicts in the 20th century that shaped the political, social, and economic aspects of our society today. The legacy of these conflicts have had signigicant political ramifacations in our current society. 
+The United States was involved in numerous conflicts in the 20th century that shaped the political, social, and economic aspects of our society today. The legacy of these conflicts have had signigicant political ramifacations in our current society. [^1]  
 *Communism*
 **United States**
 [History](https://www.britannica.com/event/Cold-War)
@@ -69,4 +69,5 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 
 ## Notes
 
+[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
 [^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
