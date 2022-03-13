@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Notes" %}
+
 
 # An Analaysis of the Rise and Fall of Imperialism and Isolationsim in 20th Century United States
 
