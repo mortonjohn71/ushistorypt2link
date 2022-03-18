@@ -1,6 +1,8 @@
-
-
-
+---
+title: essay 1 
+layout: about 
+permalink: /essay-01.html
+---
 
 # An Analaysis of the Rise and Fall of Imperialism and Isolationsim in 20th Century United States
 
