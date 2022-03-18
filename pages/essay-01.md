@@ -55,12 +55,12 @@ At the turn of the 19th century, the United States would make one of its biggest
 ## Notes
 [^1]: Fensterwald, Bernard. “The Anatomy of American ‘Isolationism’ and Expansionism. Part I.” The Journal of Conflict Resolution 2, no. 2 (1958): 1-2. http://www.jstor.org/stable/172971.
 [^2]: “The Monroe Doctrine .” A century of lawmaking for a new nation: U.S. congressional documents and debates, 1774 - 1875. Library of Congress . Accessed March 12, 2022. https://memory.loc.gov/cgi-bin/ampage?collId=llac&fileName=041%2Fllac041.db&recNum=4.
-[3^]: Fenstewald, “The Anatomy of American Isolationsim and Expansionism, 4-8. 
-[4^]: The World 1889 Issue . July 2012. Photograph. Wikimedia Commons.
-[5^]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making. W.W. Norton & Company, no. 1 2016, 44-46
-[6^]: Gilmore and Surge, These United States, 50-55 
-[7^]: Uncle Sam Teaching the World .” Cartoon. Lumen Learning , n.d. 
-[8^]: Charles Seymour, "American Neutrality," Foreign Affairs 14, no. 1 (October 1935): 26-36\
-[9^]: Gilmore and Surge, These United States, 107-112
-[10^]: “Zimmerman Translation .” Zimmerman Telegram . National Archives . Accessed March 11, 2022. https://www.archives.gov/files/education/images/zimmermanntranslation.jpg#.Yi2hQ0UQY7o.link
-[11^]: Gilmore and Surge, These United States, 112-119
+[^3]: Fenstewald, “The Anatomy of American Isolationsim and Expansionism, 4-8. 
+[^4]: The World 1889 Issue . July 2012. Photograph. Wikimedia Commons.
+[^5]: Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making. W.W. Norton & Company, no. 1 2016, 44-46
+[^6]: Gilmore and Surge, These United States, 50-55 
+[^7]: Uncle Sam Teaching the World .” Cartoon. Lumen Learning , n.d. 
+[^8]: Charles Seymour, "American Neutrality," Foreign Affairs 14, no. 1 (October 1935): 26-36\
+[^9]: Gilmore and Surge, These United States, 107-112
+[^10]: “Zimmerman Translation .” Zimmerman Telegram . National Archives . Accessed March 11, 2022. https://www.archives.gov/files/education/images/zimmermanntranslation.jpg#.Yi2hQ0UQY7o.link
+[^11]: Gilmore and Surge, These United States, 112-119
