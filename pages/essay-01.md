@@ -34,7 +34,7 @@ Newspapers also emphasized the United States’ economic interests within that r
 
 ## The Age of Imperialism and WW1 
 
-{% include feature/image.html filename="Screen Shot 2022-03-07 at 8.18.36 PM.png" alt="Image for Essay " %}
+
 The US involvement in the Spanish-American War triggered a new era of American imperialism in the western hemisphere. The Treaty of Paris in 1848 resulted in Spain ceding the Philippines to the US for $20 million, acquiring Puerto Rico, part of Samoa, and Guam, and extending guardianship for the Cuban government. The United States also annexed Hawaii in June of 1898. This massive expansion of US power was a direct result of commercial interests, which sought to expand their industries into new territories teeming with valuable resources.[^6] Despite this, the passion of the American public to support expansionism died down after the Treaty of Paris was approved by the Senate. Even with an apathetic public, the US government continued its rampant policy of expansionism. The Anti-Imperialist league would be established in 1900 to oppose US control over the Philippines. Although defeated by US public opinion who generally approved of imperialism, they were a vocal group. Their viewpoints are best represented in this political cartoon released in 1899[^7]: 
 https://github.com/mortonjohn71/ushistorypt2link/blob/main/pages/Screen%20Shot%202022-03-13%20at%2012.57.22%20AM.png
 
